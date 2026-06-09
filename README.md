@@ -2,7 +2,7 @@
 
 Sitio web de una página para barbería premium. Diseño oscuro y moderno con animaciones de scroll, formulario de reservas y secciones optimizadas para conversión.
 
-**Demo en vivo:** [Ver sitio](https://ivanvergara-ux.github.io/landing-barberia-blvck)
+**Demo en vivo:** [Ver sitio](https://ivanvergara-ux.github.io/LandingPage-Barberia/)
 
 ---
 
