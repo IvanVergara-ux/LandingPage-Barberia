@@ -8,7 +8,8 @@ Sitio web de una página para barbería premium. Diseño oscuro y moderno con an
 
 ## Vista previa
 
-> Agrega una captura de pantalla aquí: `assets/preview.png`
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/96548836-f33f-410b-b75c-d41660933e1a" />
+
 
 ---
 
